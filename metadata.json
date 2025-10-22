@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Search",
+  "description": "An AI-powered tool that simulates searching for documents and files within your Google Drive, providing intelligent summaries and realistic file results.",
+  "requestFramePermissions": []
+}
